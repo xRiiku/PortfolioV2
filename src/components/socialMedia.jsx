@@ -12,7 +12,7 @@ export function SocialMedia(){
 
         <div className='icon twitter'>
             <div className='tooltip'>Twitter</div>
-                <span> <a href='https://twitter.com/Riku0h'><i className='fab fa-twitter'></i></a></span>
+                <span> <a href='https://twitter.com/xRikuDev'><i className='fab fa-twitter'></i></a></span>
         </div>
 
         <div className='icon github'>
@@ -27,7 +27,7 @@ export function SocialMedia(){
 
         <div className='icon linkedin'>
             <div className='tooltip'>Linkedin</div>
-                <span><a href='https://www.linkedin.com/in/daniel-ram%C3%B3n-campos-0ab4b4254/'><i className='fab fa-linkedin-in'></i></a></span>
+                <span><a href='https://www.linkedin.com/in/danielramoncampos/'><i className='fab fa-linkedin-in'></i></a></span>
         </div>
 
         <div className='icon whatsapp'>
@@ -42,7 +42,7 @@ export function SocialMedia(){
 
         <div className='icon mail'>
             <div className='tooltip'>Mail</div>
-                <span><a href='mailto:riku@rikudev.com'><i className='fab fa-at'></i></a></span>
+                <span><a href='mailto:DanielRC@rikudev.com'><i className='fab fa-at'></i></a></span>
         </div>
 
 

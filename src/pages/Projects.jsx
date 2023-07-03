@@ -31,7 +31,7 @@ export function Projects() {
                     <div className='text'>
                         <h3>{t('projects.portfoliov2')}</h3>
                         <p>{t('projects.portfolio2Desc')}</p>
-                        <a href='https://www.rikudev.com'><input type='button' value={t('projects.button')}/></a>
+                        <a href='https://portfolio2.rikudev.com'><input type='button' value={t('projects.button')}/></a>
                     </div>
                 </article>
 
@@ -44,7 +44,7 @@ export function Projects() {
                     <div className='text'>
                         <h3>{t('projects.puzzle')}</h3>
                         <p>{t('projects.puzzleDesc')}</p>
-                        <a href='https://www.rikudev.com/Puzzle/index.html'><input type='button' value={t('projects.button')}/></a>
+                        <a href='https://puzzle.rikudev.com/'><input type='button' value={t('projects.button')}/></a>
                     </div>
                 </article>
 
@@ -56,7 +56,7 @@ export function Projects() {
                     <div className='text'>
                         <h3>{t('projects.clone')}</h3>
                         <p>{t('projects.cloneDesc')}</p>
-                        <a href='https://www.rikudev.com/Coinbase/html/proyecto.html'><input type='button' value={t('projects.button')}/></a>
+                        <a href='https://coinbase.rikudev.com/'><input type='button' value={t('projects.button')}/></a>
                     </div>
                 </article>
 
@@ -68,20 +68,7 @@ export function Projects() {
                     <div className='text'>
                         <h3>{t('projects.watch')}</h3>
                         <p>{t('projects.watchDesc')}</p>
-                        <a href='https://rikudev.com/Watch/index.html'><input type='button' value={t('projects.button')}/></a>
-                    </div>
-                </article>
-
-                <article>
-                    <img src={numberCount} alt='numberCount' />
-                        <i className='fa-brands fa-html5'></i>
-                        <i className='fa-brands fa-css3'></i>
-                        <i className='fa-brands fa-js'></i>
-                        <i className='fa-brands fa-react'></i>
-                    <div className='text'>
-                        <h3>{t('projects.numberCount')}</h3>
-                        <p>{t('projects.numberCountDesc')}</p>
-                        <a href='https://rikudev.com/NumberCount/index.html'><input type='button' value={t('projects.button')}/></a>
+                        <a href='https://watch.rikudev.com/'><input type='button' value={t('projects.button')}/></a>
                     </div>
                 </article>
 
@@ -93,11 +80,9 @@ export function Projects() {
                     <div className='text'>
                         <h3>{t('projects.portfoliov1')}</h3>
                         <p>{t('projects.portfoliov1Desc')}</p>
-                        <a href='https://www.rikudev.com/PortfolioV1/index.html'><input type='button' value={t('projects.button')}/></a>
+                        <a href='https://portfolio1.rikudev.com/'><input type='button' value={t('projects.button')}/></a>
                     </div>
                 </article>
-
-
 
             </main>
 
